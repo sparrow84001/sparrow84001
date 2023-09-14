@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sayanata Neogi</h1>
+<h1 align="center">Hi 👋, I'm Sayanta Neogi</h1>
 <h3 align="center">Develop and maintain ML/DL model and other computer science-related resources. Like parallel computing, quantum computing, etc.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparrow84001&label=Profile%20views&color=0e75b6&style=flat" alt="sparrow84001" /> </p>
 
