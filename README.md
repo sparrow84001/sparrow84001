@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sayanta Neogi</h1>
+<h1 align="center">Hi 👋 I'm Sayanta Neogi</h1>
 <h3 align="center">Develop and maintain ML/DL model and other computer science-related resources. Like parallel computing, quantum computing, etc.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparrow84001&label=Profile%20views&color=0e75b6&style=flat" alt="sparrow84001" /> </p>
 
 
-- 💬 Ask me about **Anything computing related..**
+- 💬 Ask me about **Anything computing related.**
 - 📫 How to reach me **sparrow8400@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sparrow84001?tab=repositories**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1YnnpJlg4j-p9lfc9Hkg-iUu5aHnSvfSN/view?usp=drive_link**
