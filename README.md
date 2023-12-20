@@ -1,13 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋 I'm Sayanta Neogi</h1>
-<h3 align="center">Develop and maintain ML/DL model and other computer science-related resources. Like parallel computing, quantum computing, etc.</h3>
+<h3 align="center">As an experienced professional in the field of machine
+learning and deep learning models. I have a deep
+understanding of parallel and quantum computing, that
+delivers superior results. My knowledge in these areas has
+been sharpened over years of experience. If you're looking
+for an expert in ML/DL models look no further than me.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparrow84001&label=Profile%20views&color=0e75b6&style=flat" alt="sparrow84001" /> </p>
 
 
 - 💬 Ask me about **Anything computing related.**
 - 📫 How to reach me **sparrow8400@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sparrow84001?tab=repositories**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1YnnpJlg4j-p9lfc9Hkg-iUu5aHnSvfSN/view?usp=drive_link**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1xGrXCH8ZDLySRYhwA0NWnInehhkDkBQU/view?usp=drive_link**
 
 <div> <a href="https://twitter.com/@sayanta_neogi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sparrow84001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -65,11 +70,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sparrow84001&show_icons=true&locale=en&theme=transparent" alt="sparrow84001" />
-
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow84001&layout=compact&theme=transparent" alt=sparrow84001 /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparrow84001&theme=transparent" alt="sparrow84001" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
